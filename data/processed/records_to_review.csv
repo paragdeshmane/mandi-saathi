@@ -1,0 +1,17 @@
+Arrival_Date,Commodity,Commodity_Code,District,Grade,Market,Max_Price,Min_Price,Modal_Price,State,Variety,Market_Clean
+11/03/2026,Soyabean,13,Buldhana,Non-FAQ,Buldhana(Dhad) APMC,5200,4800,5000,Maharashtra,Yellow,Buldhana(Dhad) APMC
+11/03/2026,Soyabean,13,Buldhana,Non-FAQ,Buldhana(Dhad) APMC,5325,4800,5000,Maharashtra,Yellow,Buldhana(Dhad) APMC
+29/10/2026,Soyabean,13,Buldhana,Local,"Jaykissan Krushi Uttpan Khajgi Bazar, Khamgaon, Dist Buldhana",7100,4000,6736,Maharashtra,Yellow,"Jaykissan Krushi Uttpan Khajgi Bazar, Khamgaon, Dist Buldhana"
+29/10/2026,Soyabean,13,Buldhana,Local,"Jaykissan Krushi Uttpan Khajgi Bazar, Khamgaon, Dist Buldhana",7075,3700,6796,Maharashtra,Yellow,"Jaykissan Krushi Uttpan Khajgi Bazar, Khamgaon, Dist Buldhana"
+26/10/2026,Soyabean,13,Buldhana,Local,"Jaykissan Krushi Uttpan Khajgi Bazar, Khamgaon, Dist Buldhana",7250,3600,6941,Maharashtra,Yellow,"Jaykissan Krushi Uttpan Khajgi Bazar, Khamgaon, Dist Buldhana"
+26/10/2026,Soyabean,13,Buldhana,Local,"Jaykissan Krushi Uttpan Khajgi Bazar, Khamgaon, Dist Buldhana",7250,3600,6957,Maharashtra,Yellow,"Jaykissan Krushi Uttpan Khajgi Bazar, Khamgaon, Dist Buldhana"
+16/09/2025,Soyabean,13,Buldhana,Non-FAQ,Lonar,4150,4050,4150,Maharashtra,Yellow,Lonar
+16/09/2025,Soyabean,13,Buldhana,Non-FAQ,Lonar,4250,4050,4150,Maharashtra,Yellow,Lonar
+31/01/2026,Soyabean,13,Buldhana,FAQ,Lonar APMC,5611,5328,5469,Maharashtra,Yellow,Lonar APMC
+31/01/2026,Soyabean,13,Buldhana,FAQ,Lonar APMC,5560,5328,5444,Maharashtra,Yellow,Lonar APMC
+03/12/2024,Soyabean,13,Buldhana,FAQ,Mehekar,4795,4000,4670,Maharashtra,Other,Mehekar
+03/12/2024,Soyabean,13,Buldhana,FAQ,Mehekar,4795,3500,4500,Maharashtra,Other,Mehekar
+16/07/2026,Soyabean,13,Buldhana,Local,Mehekar APMC,7290,6600,7000,Maharashtra,Other,Mehekar APMC
+16/07/2026,Soyabean,13,Buldhana,Local,Mehekar APMC,7450,6800,7250,Maharashtra,Other,Mehekar APMC
+21/05/2026,Soyabean,13,Buldhana,FAQ,Shegaon APMC,7290,7290,7290,Maharashtra,Yellow,Shegaon APMC
+21/05/2026,Soyabean,13,Buldhana,FAQ,Shegaon APMC,7400,6680,7175,Maharashtra,Yellow,Shegaon APMC
